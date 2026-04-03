@@ -1,4 +1,4 @@
-# Smartphone usage and addiction analysis (interactive dashboard by using tableau)
+# Smartphone usage and addiction analysis ( dashboard by using tableau)
 ## Project Objective
 To analyze smartphone usage patterns and evaluate the impact of screen time on sleep, productivity, and user behavior.
 
