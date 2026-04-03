@@ -7,7 +7,6 @@ To analyze smartphone usage patterns and evaluate the impact of screen time on s
 - Average Sleep Duration
 - Average Work/Study Hours
 - Total Number of Users
-- Percentage of High-Risk Users (High Screen Time + Low Sleep)
 
 ## Process
 - Collected the smartphone usage dataset and understaood key variables and patterns  
