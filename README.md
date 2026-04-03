@@ -14,9 +14,11 @@ To analyze smartphone usage patterns and evaluate the impact of screen time on s
 - Performed data cleaning to ensure accuracy and consistency of the dataset  
 - Connected the dataset to Tableau for visualization and analysis  
 - Created calculated fields such as screen time categories, sleep indicators, and high-risk user identification  
-- Built multiple visualizations like line charts, bar charts, scatter plots to analyze relationships between screen time, sleep, and productivity   
+- Built multiple visualizations like line charts, bar charts, scatter plots to analyze relationships between screen time, sleep, and  productivity   
 - Analyzed the visualizations to identify trends, patterns, and key insights related to smartphone addiction behavior
 
+## Dashboard
+<img width="920" height="735" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/a0829688-38a9-42e2-9f64-fa3fe72328e4" />
 ## Project Insight
 - Avg Screen Time ranges between 6–9 hours/day
 - Higher addiction levels lead to increased screen usage
